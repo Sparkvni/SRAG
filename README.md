@@ -1,4 +1,4 @@
-# Desafio Técnico – Cientista de Dados | Maxpar
+# Aprendizado Supervisionado Aplicado à SRAG – Open Data SUS 2023
 
 Solução desenvolvida para o desafio técnico proposto pela **Maxpar** na etapa do processo seletivo para a vaga de **Cientista de Dados**.
 
